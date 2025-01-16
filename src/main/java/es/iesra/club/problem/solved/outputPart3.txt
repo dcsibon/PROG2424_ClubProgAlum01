@@ -1,0 +1,7 @@
+0! -> 1 = 1
+15! -> 15x14x13x12x11x10x9x8x7x6x5x4x3x2x1 = 1307674368000
+30! -> fuera de rango
+-1! -> fuera de rango
+7! -> 7x6x5x4x3x2x1 = 5040
+3! -> 3x2x1 = 6
+total = 1307674373047

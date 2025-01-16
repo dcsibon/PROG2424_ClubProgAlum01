@@ -1,0 +1,9 @@
+abc -> error
+8! -> 8x7x6x5x4x3x2x1 = 40320
+30! -> fuera de rango
+-1! -> fuera de rango
+6.88 -> error
+10! -> 10x9x8x7x6x5x4x3x2x1 = 3628800
+1! -> 1 = 1
+6! -> 6x5x4x3x2x1 = 720
+total = 3669841
