@@ -14,10 +14,12 @@ public class FactorialP1SolIterativa extends ProblemSolver {
     protected List<String> process(List<String> inputLines) {
         List<String> outputLines = new ArrayList<>();
 
+        
 
         return outputLines;
     }
 
+    
 
     public static void main(String[] args) {
         FactorialP1SolIterativa solver = new FactorialP1SolIterativa();
